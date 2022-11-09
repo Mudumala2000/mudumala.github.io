@@ -1,0 +1,48 @@
+title{
+    font-family:fantasy;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color:blanchedalmond;
+    margin-top: 10px;
+    background-color:floralwhite;
+    background-image:url('https://cache.careers360.mobi/media/presets/860X430/article_images/2022/4/30/Front_End_Developer.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 100%;
+    
+}
+
+img{
+    margin-top: 10px;
+    position:static;
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+}
+.grow img{
+    transition: 1s ease;
+    }
+    
+    .grow img:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    }
+p{
+    text-justify: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    color:brown;
+}
+form{
+    margin-left: 60ch;
+    font-size: larger;
+    color: black;
+    width: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: left 1px;
+    background-color: yellowgreen;
+}
